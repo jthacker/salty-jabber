@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Salty Jabber",
+  "description": "Improvements to saltalk.com",
+  "version": "0.0.1",
+  "icons": {
+    "48": "icon48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.saltalk.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
