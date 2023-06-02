@@ -1,5 +1,6 @@
 SRC = manifest.json
 SRC += icon48.png
+SRC += icon128.png
 SRC += content.js
 
 build: build/saltyjabber.zip

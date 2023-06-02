@@ -2,6 +2,8 @@
 
 Enhancements to saltalk.com
 
+![](./cover.jpg)
+
 ## Features
 
 1. Filter by budget - only show items that are within your remaining budget.
